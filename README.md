@@ -1,4 +1,4 @@
-# <img width="40" height="30" alt="app_icon" src="https://github.com/user-attachments/assets/ebc7d54c-6c43-4c21-927c-9bd1aad5affa" /> NEXUS - Automação de Planilhas (Rateio & Atualização)
+# <img width="40" height="30" alt="app_icon" src="https://github.com/user-attachments/assets/ebc7d54c-6c43-4c21-927c-9bd1aad5affa" /> NEXUS - Automação de Relatórios (Rateio & Atualização)
 
 Aplicação desktop desenvolvida em Python com PySide6 para automatizar processos de planilhas que eram originalmente executados por scripts VBA. O objetivo é fornecer uma solução mais rápida, robusta e de fácil manutenção.
 
