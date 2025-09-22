@@ -12,8 +12,7 @@ Aplicação desktop desenvolvida em Python com PySide6 para automatizar processo
 
 ## Screenshot
 
-*(Aqui você pode adicionar um print da tela principal da aplicação para referência visual.)*
-![Screenshot da Aplicação](assets/screenshot.png)
+<img width="1538" height="696" alt="image" src="https://github.com/user-attachments/assets/66f1a9c5-7006-4e9b-91d5-5980816430b1" />
 
 ## Pré-requisitos
 
