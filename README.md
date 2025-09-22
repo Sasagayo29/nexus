@@ -12,7 +12,19 @@ Aplicação desktop desenvolvida em Python com PySide6 para automatizar processo
 
 ## Screenshot
 
-<img width="1538" height="696" alt="image" src="https://github.com/user-attachments/assets/66f1a9c5-7006-4e9b-91d5-5980816430b1" />
+<img width="1538" height="696" alt="image" src="https://github.com/user-attachments/assets/66f1a9c5-7006-4e9b-91d5-5980816430b1" /> 
+
+**● Rateio**
+
+<img width="1555" height="711" alt="image" src="https://github.com/user-attachments/assets/9c5b5749-0919-4371-b297-ed7d871ce28b" />
+ <img width="874" height="635" alt="image" src="https://github.com/user-attachments/assets/f68e4c1b-a7af-4fd0-a126-7a005607c131" /> 
+ 
+ **● Atualização Massiva** 
+ 
+ <img width="1452" height="717" alt="image" src="https://github.com/user-attachments/assets/f85d1a63-cb9d-4ff1-921a-60637ff3f684" />
+<img width="1555" height="722" alt="image" src="https://github.com/user-attachments/assets/dbf56597-3b70-45d4-9031-5667daeb3a1c" />
+
+
 
 ## Pré-requisitos
 
